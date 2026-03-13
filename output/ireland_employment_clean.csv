@@ -1,0 +1,37 @@
+Year,Sector,Employed_Thousands,Avg_Salary_EUR
+2019,Technology,112,58000
+2020,Technology,98,57000
+2021,Technology,105,60000
+2022,Technology,124,65000
+2023,Technology,138,70000
+2024,Technology,151,74000
+2019,Healthcare,155,38000
+2020,Healthcare,161,39000
+2021,Healthcare,168,40000
+2022,Healthcare,175,42000
+2023,Healthcare,183,44000
+2024,Healthcare,191,46000
+2019,Finance,98,52000
+2020,Finance,92,51000
+2021,Finance,96,53000
+2022,Finance,104,56000
+2023,Finance,109,59000
+2024,Finance,114,62000
+2019,Construction,145,36000
+2020,Construction,121,34000
+2021,Construction,130,35000
+2022,Construction,148,38000
+2023,Construction,152,40000
+2024,Construction,156,41000
+2019,Hospitality,143,24000
+2020,Hospitality,89,20000
+2021,Hospitality,97,21000
+2022,Hospitality,128,25000
+2023,Hospitality,134,26000
+2024,Hospitality,129,25000
+2019,Professional Services,88,45000
+2020,Professional Services,82,44000
+2021,Professional Services,89,46000
+2022,Professional Services,97,50000
+2023,Professional Services,105,53000
+2024,Professional Services,112,56000
