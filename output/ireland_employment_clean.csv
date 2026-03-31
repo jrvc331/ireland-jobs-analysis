@@ -1,37 +1,29 @@
-Year,Sector,Employed_Thousands,Avg_Salary_EUR
-2019,Technology,112,58000
-2020,Technology,98,57000
-2021,Technology,105,60000
-2022,Technology,124,65000
-2023,Technology,138,70000
-2024,Technology,151,74000
-2019,Healthcare,155,38000
-2020,Healthcare,161,39000
-2021,Healthcare,168,40000
-2022,Healthcare,175,42000
-2023,Healthcare,183,44000
-2024,Healthcare,191,46000
-2019,Finance,98,52000
-2020,Finance,92,51000
-2021,Finance,96,53000
-2022,Finance,104,56000
-2023,Finance,109,59000
-2024,Finance,114,62000
-2019,Construction,145,36000
-2020,Construction,121,34000
-2021,Construction,130,35000
-2022,Construction,148,38000
-2023,Construction,152,40000
-2024,Construction,156,41000
-2019,Hospitality,143,24000
-2020,Hospitality,89,20000
-2021,Hospitality,97,21000
-2022,Hospitality,128,25000
-2023,Hospitality,134,26000
-2024,Hospitality,129,25000
-2019,Professional Services,88,45000
-2020,Professional Services,82,44000
-2021,Professional Services,89,46000
-2022,Professional Services,97,50000
-2023,Professional Services,105,53000
-2024,Professional Services,112,56000
+Year,Sector,Employed_Thousands
+2019,Construction,36576973.2655
+2019,Distribution/Hospitality,122393189.140125
+2019,Finance,23949999.169375
+2019,Tech/ICT,30088411.805625
+2020,Construction,29309280.787125
+2020,Distribution/Hospitality,98374949.691875
+2020,Finance,25749872.172875002
+2020,Tech/ICT,31453329.3885
+2021,Construction,31508215.53625
+2021,Distribution/Hospitality,102967167.63087499
+2021,Finance,26412606.653625
+2021,Tech/ICT,35540525.146875
+2022,Construction,40757182.36975
+2022,Distribution/Hospitality,119236128.479875
+2022,Finance,27040852.221125
+2022,Tech/ICT,38863941.700625
+2023,Construction,39416218.58375
+2023,Distribution/Hospitality,121733324.950625
+2023,Finance,27639858.188375
+2023,Tech/ICT,39688422.419
+2024,Construction,40501167.462875
+2024,Distribution/Hospitality,121602815.323
+2024,Finance,27040082.049625
+2024,Tech/ICT,40874480.76
+2025,Construction,42665433.105125
+2025,Distribution/Hospitality,121437572.637
+2025,Finance,29038955.17325
+2025,Tech/ICT,38977720.31625
